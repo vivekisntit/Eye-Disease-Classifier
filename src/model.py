@@ -22,4 +22,4 @@ def build_model(num_classes):
 
     return model
 
-# Defines the architecture of the model, including preprocessing and augmentation layers.
+# this is for the architecture of the model, including preprocessing and augmentation layers.

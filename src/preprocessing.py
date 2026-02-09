@@ -13,4 +13,4 @@ data_augmentation = tf.keras.Sequential([
 ])
 
 
-# life is for preprocessing layers & augmentation only
+# this is for preprocessing layers & augmentation

@@ -29,3 +29,5 @@ with open(SPLIT_FILE, "w") as f:
     }, f)
 
 print("Dataset split saved.")
+
+# this is for splitting data
