@@ -57,8 +57,15 @@ This project leverages Convolutional Neural Networks (CNNs) to analyze retinal f
 - Testing Set: 10%  
 
 ---
+## Results
+![Preccision | Recall | F1-score](results.png)
+
+![Confusion matrix](Confusion_matrix.png)
+
+---
 
 ## Project Structure
+```bash
 ├── dataset/
 │   ├── cataract/
 │   ├── diabetic_retinopathy/
@@ -73,7 +80,7 @@ This project leverages Convolutional Neural Networks (CNNs) to analyze retinal f
 ├── results/
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## How to Run
@@ -82,7 +89,7 @@ Follow the steps below to set up the environment and train the model.
 
 ### Clone the Repository
 ```bash
-git clone <url>
+git clone <https://github.com/vivekisntit/Eye-Disease-Classifier.git>
 cd eye-disease-prediction
 ```
 ### Install Dependencies
